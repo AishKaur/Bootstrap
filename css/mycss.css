@@ -1,0 +1,89 @@
+
+#custom{
+	background-color:white;
+
+}
+
+#navi{
+
+	border-radius: 40px;
+	padding:10px;
+	color: black;
+
+}
+#head{
+	font-size: 16px;
+}
+#font{
+	font-size:14px;
+	text-align: justify;
+
+}
+#jumbotron{
+	background-color:#fff;
+	width:110%;
+	margin-left:-38px; 
+}
+#jumbo{
+	margin-top: 20px;
+	background-color: #fff;
+}
+
+.container{
+	background-color:white;
+	padding:10px;
+
+}
+
+#foot{
+	background-color:white;
+}
+.panel{
+	padding: 15px;
+}
+
+#med{
+	padding:15px;
+}
+#back{
+	background-color: silver;
+	border-radius:20px; 
+	padding: 10px;
+
+}
+#pan{
+	background-color:white;
+	border-radius:20px; 
+	padding: 10px;
+
+}
+#media1{
+	width:70%;
+	height:60%;
+	margin-right:40px;
+	margin-left: 20px;
+}
+#media2{
+	width:70%;
+	height:45%;
+	margin-left:130px;
+}
+#fonti{
+	font-size:15px;
+	text-align: justify;
+	width:50%;
+	margin: 30px;
+}
+
+
+@media only screen and (max-width: 500px) {
+	#media2 {
+		width:70%;
+		height:45%;
+		margin-left:40px;
+	}
+
+	#custom{
+		background-color: lightgreen;
+	}
+}
